@@ -3,10 +3,6 @@ test_development/*/
 job_slurm/
 qml_hw2/
 results/
-results_without_constraint/
-results_constrained_bo/
-results_without_constraint_2/
-results_constrained_bo_2/
 analyze_scripts/
 qmg/trainer_old.py
 qmg/models_old/
