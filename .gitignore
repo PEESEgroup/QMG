@@ -10,7 +10,6 @@ qmg/train_old/
 docs_old/
 docs/ibmq_tokens.txt
 docker_commands/
-results_*
 dataset/*.csv
 test_development/
 *.pyc
